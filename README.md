@@ -61,7 +61,7 @@ To design a simple and user-friendly experience that allows individuals and fami
 
 ## 🔗Project Links
 
-- **Presentation:** [Add Presentation Link]
+- **Presentation:** https://docs.google.com/presentation/d/1oaCHtPzvOKFv-BuZqjEZOqudmoOp0mlBMuyljqGaTEo/edit?usp=sharing
 - **Mobile Prototype:** [Add Figma Link]
 - **Desktop Prototype:** [Add Figma Link]
 
