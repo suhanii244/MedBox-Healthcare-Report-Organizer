@@ -65,6 +65,7 @@ To design a simple and user-friendly experience that allows individuals and fami
 - **Mobile Prototype:** https://www.figma.com/proto/TA7CRwBitvc4t27O9zCcxN/MedBox-App?node-id=2-2&p=f&viewport=-35%2C92%2C0.23&t=F2Mnvd1d32cXGKxt-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A2&page-id=0%3A1&show-proto-sidebar=1
 - **Desktop Prototype:** https://www.figma.com/proto/TA7CRwBitvc4t27O9zCcxN/MedBox-App?node-id=95-53&p=f&viewport=69%2C302%2C0.11&t=jmDHDV7ZlvdfNEBX-1&scaling=contain&content-scaling=fixed&starting-point-node-id=95%3A53&page-id=81%3A2
 - **Project Explanation video:** https://drive.google.com/file/d/1Nf9BhC6jGCn81G09T3Y5pIjXu_QntgnW/view?usp=drivesdk
+- **Internship Experience and Feedback Video:** https://drive.google.com/file/d/1dKfAq8OicVB2hdaTbLSSNdabcDPmp2AV/view?usp=drivesdk
 
 ## 📝Project Scope
 
